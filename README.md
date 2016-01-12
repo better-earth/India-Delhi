@@ -2,7 +2,7 @@
 
 ## Why
 
-This repo is part of the [**Better Earth**](https://github.com/better-earth) which I have created to implement a concept I had in mind - we could use Github to involve programmers/developers/coders to make earth a better place just as an open source project does.
+This repo is part of the [**Better Earth**](https://github.com/better-earth) organization which I have created to implement a concept I had in mind - we could use Github to involve programmers/developers/coders to make earth a better place just as an open source project does.
 
 The idea is to use Github issues and pull requests to discuss, suggest and track solutions to various issues that the people of Earth face today. For the same, each state can be repository with the name `{Country}-{State}`.
 
